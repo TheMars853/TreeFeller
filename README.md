@@ -3,7 +3,7 @@
 Fabric mod for Minecraft **26.2**: break a single log block and the entire tree
 (wood only — leaves stay and decay normally) is felled instantly.
 
-## Versions used (verified June 20, 2026)
+## Versions used 
 
 | Component       | Version                |
 |------------------|--------------------------|
