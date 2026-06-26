@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "treefell",
+  "version": "${version}",
+  "name": "TreeFell",
+  "description": "Break one log, drop the whole tree. No more clicking block by block — one swing, instant timber.",
+  "authors": [
+    "Ares Studio"
+  ],
+  "contact": {
+    "homepage": "https://github.com/TheMars853"
+  },
+  "license": "MIT",
+  "icon": "assets/treefell/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.aresstudio.treefell.TreeFell"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "26.2",
+    "fabric-api": "*"
+  }
+}
